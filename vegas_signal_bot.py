@@ -4,7 +4,7 @@ import numpy as np
 
 # ==================== 配置区域 ====================
 # 将下面的 "YOUR_SENDKEY" 换成你在 Server酱 复制的 SendKey
-SERVERCHAN_KEY = os.getenv("SERVERCHAN_KEY", "YOUR_SENDKEY")
+SERVERCHAN_KEY = os.getenv("SERVERCHAN_KEY", "SCT456982T9XamVAyJHgYDo5DFDcbyiUHD")
 
 # 在这里配置你想监控的所有品类（ETH 和 BTC）
 SYMBOLS = ["ETHUSDT", "BTCUSDT"] 
